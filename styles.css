@@ -1,0 +1,16 @@
+.NUTONE {
+    border: solid #BCEAD5 3px;
+}
+
+p{
+
+    color: rgb(181, 255, 181);
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+body{
+    background-color:#47A992;
+}
