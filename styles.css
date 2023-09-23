@@ -14,3 +14,12 @@ p{
 body{
     background-color:#47A992;
 }
+
+hr{
+    /*background-color: #FAF0E6;*/
+    border-style: dotted none none; 
+    /*height: 0;*/
+    width: 30%;
+    border-color: whitesmoke;
+    border-width: 5px;
+}
